@@ -3,7 +3,7 @@ package com.kuang.opertate;
 //逻辑运算符
 public class Demo05 {
     public static void main(String[] args) {
-//        与 或 非
+//        与 或 非 学习
         int a = 10;
         int b = 20;
         int c = 30;
